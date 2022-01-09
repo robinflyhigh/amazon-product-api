@@ -1,3 +1,8 @@
 node_modules/
 .DS_Store
 test.js
+
+#robinflyhigh
+*.bat
+nodemon
+cache/*
