@@ -1,0 +1,1 @@
+node bin\cli.js asin B07H44RR5C --filetype=""
