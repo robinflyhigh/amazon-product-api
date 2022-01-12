@@ -1,2 +1,2 @@
-node bin\cli.js asin B07H44RR5C --filetype=""
+node bin\cli.js asin B07QT9LBWK --filetype=""
 forever test.js asin B07H44RR5C
