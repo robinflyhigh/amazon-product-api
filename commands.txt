@@ -1,2 +1,8 @@
 node bin\cli.js asin B07QT9LBWK --filetype=""
 forever test.js asin B07H44RR5C
+
+node bin\cli.js asin B000KL1LDE --filetype="" --cookie=session-id=144-9709932-7368558;ubid-main=135-1020677-8829739;
+
+node bin\cli.js asin B000KL1LDE --filetype="" --country=US --cookie=ubid-main=130-6368832-1731852;session-id-time=2082787201l;session-id=144-8913330-9052318
+
+node bin\cli.js asin B09G3W7MYK --filetype="" --country=GB --cookie=ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828;ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828
