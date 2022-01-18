@@ -5,4 +5,4 @@ test.js
 #robinflyhigh
 *.bat
 nodemon
-cache/*
+#cache/*

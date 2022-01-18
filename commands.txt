@@ -6,3 +6,25 @@ node bin\cli.js asin B000KL1LDE --filetype="" --cookie=session-id=144-9709932-73
 node bin\cli.js asin B000KL1LDE --filetype="" --country=US --cookie=ubid-main=130-6368832-1731852;session-id-time=2082787201l;session-id=144-8913330-9052318
 
 node bin\cli.js asin B09G3W7MYK --filetype="" --country=GB --cookie=ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828;ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828
+
+
+node bin\cli.js asin B01KWDGIEQ --filetype=""
+node bin\cli.js asin B00ILZH9BO --filetype=""
+node bin\cli.js asin B00NR5VTVO --filetype=""
+node bin\cli.js asin B0009PCP6S --filetype=""
+node bin\cli.js asin B005SPFA0W --filetype=""
+node bin\cli.js asin B06XCLY3HK --filetype=""
+node bin\cli.js asin B0839GN3PF --filetype=""
+node bin\cli.js asin B00N4GYBPC --filetype=""
+node bin\cli.js asin B07ZGHZVRY --filetype=""
+node bin\cli.js asin B083ZH5DH2 --filetype=""
+node bin\cli.js asin B08CMKW2YM --filetype=""
+node bin\cli.js asin B00FD3H2HS --filetype=""
+node bin\cli.js asin B01AW1HYIC --filetype=""
+node bin\cli.js asin B0829M59K8 --filetype=""
+node bin\cli.js asin B08YX35VT7 --filetype=""
+node bin\cli.js asin B000RUJZS6 --filetype=""
+node bin\cli.js asin B00LLQ4AU8 --filetype=""
+node bin\cli.js asin B077D7L95C --filetype=""
+node bin\cli.js asin B07WRN946R --filetype=""
+node bin\cli.js asin B08965FYJ1 --filetype=""
