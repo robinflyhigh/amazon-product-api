@@ -21,7 +21,7 @@ const startScraper = async (argv) => {
                 break;
             case 'asin':
                 if (!argv.filetype) {
-                    //console.log(data.result[0].product_information);
+                    console.log(data.result[0]);
                 }
                 break;
             default:
