@@ -8,7 +8,7 @@ node bin\cli.js asin B000KL1LDE --filetype="" --country=US --cookie=ubid-main=13
 node bin\cli.js asin B09G3W7MYK --filetype="" --country=GB --cookie=ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828;ubid-acbuk=260-8672506-9132141;session-id-time=2082758401l;lc-acbuk=en_GB;session-id=261-3529396-6736828
 
 
-node bin\cli.js asin B01KWDGIEQ --filetype=""
+node bin\cli.js asin B096S26BLM --filetype=""
 node bin\cli.js asin B00ILZH9BO --filetype=""
 node bin\cli.js asin B00NR5VTVO --filetype=""
 node bin\cli.js asin B0009PCP6S --filetype=""
